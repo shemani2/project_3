@@ -1,0 +1,269 @@
+actuals: Nested Object/Array
+actuals.cases: 11383
+actuals.contactTracers: None
+actuals.deaths: 45
+actuals.hospitalBeds: Nested Object/Array
+actuals.hospitalBeds.capacity: 91
+actuals.hospitalBeds.currentUsageCovid: 0
+actuals.hospitalBeds.currentUsageTotal: 29
+actuals.hospitalBeds.weeklyCovidAdmissions: 6
+actuals.hsaHospitalBeds: Nested Object/Array
+actuals.hsaHospitalBeds.capacity: 172
+actuals.hsaHospitalBeds.currentUsageCovid: 0
+actuals.hsaHospitalBeds.currentUsageTotal: 64
+actuals.hsaHospitalBeds.weeklyCovidAdmissions: 4
+actuals.hsaIcuBeds: Nested Object/Array
+actuals.hsaIcuBeds.capacity: 12
+actuals.hsaIcuBeds.currentUsageCovid: 0
+actuals.hsaIcuBeds.currentUsageTotal: 5
+actuals.icuBeds: Nested Object/Array
+actuals.icuBeds.capacity: 6
+actuals.icuBeds.currentUsageCovid: 0
+actuals.icuBeds.currentUsageTotal: 3
+actuals.negativeTests: None
+actuals.newCases: 0
+actuals.newDeaths: 0
+actuals.positiveTests: None
+actuals.vaccinationsAdditionalDose: 9941
+actuals.vaccinationsCompleted: 23445
+actuals.vaccinationsFall2022BivalentBooster: 2420
+actuals.vaccinationsInitiated: 26562
+actuals.vaccinationsInitiatedDemographics: Nested Object/Array
+actuals.vaccinationsInitiatedDemographics.age: Nested Object/Array
+actuals.vaccinationsInitiatedDemographics.age.12-15: 546
+actuals.vaccinationsInitiatedDemographics.age.16-49: 12527
+actuals.vaccinationsInitiatedDemographics.age.5-11: 263
+actuals.vaccinationsInitiatedDemographics.age.50-64: 7484
+actuals.vaccinationsInitiatedDemographics.age.65-79: 5169
+actuals.vaccinationsInitiatedDemographics.age.80_plus: 1452
+actuals.vaccinationsInitiatedDemographics.age.unknown: 3
+actuals.vaccinationsInitiatedDemographics.ethnicity: None
+actuals.vaccinationsInitiatedDemographics.race: Nested Object/Array
+actuals.vaccinationsInitiatedDemographics.race.asian: 238
+actuals.vaccinationsInitiatedDemographics.race.black: 5286
+actuals.vaccinationsInitiatedDemographics.race.other: 4702
+actuals.vaccinationsInitiatedDemographics.race.unknown: 836
+actuals.vaccinationsInitiatedDemographics.race.white: 13386
+actuals.vaccinationsInitiatedDemographics.sex: None
+actuals.vaccinesAdministered: None
+actuals.vaccinesAdministeredDemographics: Nested Object/Array
+actuals.vaccinesAdministeredDemographics.age: Nested Object/Array
+actuals.vaccinesAdministeredDemographics.age.12-15: 1036
+actuals.vaccinesAdministeredDemographics.age.16-49: 25697
+actuals.vaccinesAdministeredDemographics.age.5-11: 470
+actuals.vaccinesAdministeredDemographics.age.50-64: 17125
+actuals.vaccinesAdministeredDemographics.age.65-79: 12254
+actuals.vaccinesAdministeredDemographics.age.80_plus: 3581
+actuals.vaccinesAdministeredDemographics.age.unknown: 3
+actuals.vaccinesAdministeredDemographics.ethnicity: None
+actuals.vaccinesAdministeredDemographics.race: Nested Object/Array
+actuals.vaccinesAdministeredDemographics.race.asian: 520
+actuals.vaccinesAdministeredDemographics.race.black: 11109
+actuals.vaccinesAdministeredDemographics.race.other: 9905
+actuals.vaccinesAdministeredDemographics.race.unknown: 1412
+actuals.vaccinesAdministeredDemographics.race.white: 28192
+actuals.vaccinesAdministeredDemographics.sex: None
+actuals.vaccinesDistributed: None
+actualsTimeseries: Nested Object/Array
+actualsTimeseries.cases: None
+actualsTimeseries.contactTracers: None
+actualsTimeseries.date: 2020-03-18
+actualsTimeseries.deaths: None
+actualsTimeseries.hospitalBeds: Nested Object/Array
+actualsTimeseries.hospitalBeds.capacity: None
+actualsTimeseries.hospitalBeds.currentUsageCovid: None
+actualsTimeseries.hospitalBeds.currentUsageTotal: None
+actualsTimeseries.hospitalBeds.weeklyCovidAdmissions: None
+actualsTimeseries.hsaHospitalBeds: Nested Object/Array
+actualsTimeseries.hsaHospitalBeds.capacity: None
+actualsTimeseries.hsaHospitalBeds.currentUsageCovid: None
+actualsTimeseries.hsaHospitalBeds.currentUsageTotal: None
+actualsTimeseries.hsaHospitalBeds.weeklyCovidAdmissions: None
+actualsTimeseries.hsaIcuBeds: Nested Object/Array
+actualsTimeseries.hsaIcuBeds.capacity: None
+actualsTimeseries.hsaIcuBeds.currentUsageCovid: None
+actualsTimeseries.hsaIcuBeds.currentUsageTotal: None
+actualsTimeseries.icuBeds: Nested Object/Array
+actualsTimeseries.icuBeds.capacity: None
+actualsTimeseries.icuBeds.currentUsageCovid: None
+actualsTimeseries.icuBeds.currentUsageTotal: None
+actualsTimeseries.negativeTests: None
+actualsTimeseries.newCases: None
+actualsTimeseries.newDeaths: None
+actualsTimeseries.positiveTests: None
+actualsTimeseries.vaccinationsInitiatedDemographics: None
+actualsTimeseries.vaccinesAdministeredDemographics: None
+annotations: Nested Object/Array
+annotations.bedsWithCovidPatientsRatio: Nested Object/Array
+annotations.bedsWithCovidPatientsRatio.anomalies: Nested Object/Array
+annotations.bedsWithCovidPatientsRatio.sources: Nested Object/Array
+annotations.bedsWithCovidPatientsRatio.sources.name: Department of Health and Human Services
+annotations.bedsWithCovidPatientsRatio.sources.type: other
+annotations.bedsWithCovidPatientsRatio.sources.url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+annotations.caseDensity: Nested Object/Array
+annotations.caseDensity.anomalies: Nested Object/Array
+annotations.caseDensity.sources: Nested Object/Array
+annotations.caseDensity.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.caseDensity.sources.type: other
+annotations.caseDensity.sources.url: Nested Object/Array
+annotations.cases: Nested Object/Array
+annotations.cases.anomalies: Nested Object/Array
+annotations.cases.sources: Nested Object/Array
+annotations.cases.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.cases.sources.type: other
+annotations.cases.sources.url: Nested Object/Array
+annotations.contactTracerCapacityRatio: None
+annotations.contactTracers: None
+annotations.deaths: Nested Object/Array
+annotations.deaths.anomalies: Nested Object/Array
+annotations.deaths.sources: Nested Object/Array
+annotations.deaths.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.deaths.sources.type: other
+annotations.deaths.sources.url: Nested Object/Array
+annotations.hospitalBeds: Nested Object/Array
+annotations.hospitalBeds.anomalies: Nested Object/Array
+annotations.hospitalBeds.sources: Nested Object/Array
+annotations.hospitalBeds.sources.name: Department of Health and Human Services
+annotations.hospitalBeds.sources.type: other
+annotations.hospitalBeds.sources.url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+annotations.hsaHospitalBeds: None
+annotations.hsaIcuBeds: None
+annotations.icuBeds: Nested Object/Array
+annotations.icuBeds.anomalies: Nested Object/Array
+annotations.icuBeds.sources: Nested Object/Array
+annotations.icuBeds.sources.name: Department of Health and Human Services
+annotations.icuBeds.sources.type: other
+annotations.icuBeds.sources.url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+annotations.icuCapacityRatio: Nested Object/Array
+annotations.icuCapacityRatio.anomalies: Nested Object/Array
+annotations.icuCapacityRatio.sources: Nested Object/Array
+annotations.icuCapacityRatio.sources.name: Department of Health and Human Services
+annotations.icuCapacityRatio.sources.type: other
+annotations.icuCapacityRatio.sources.url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+annotations.infectionRate: Nested Object/Array
+annotations.infectionRate.anomalies: Nested Object/Array
+annotations.infectionRate.sources: Nested Object/Array
+annotations.infectionRate.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.infectionRate.sources.type: other
+annotations.infectionRate.sources.url: Nested Object/Array
+annotations.infectionRateCI90: Nested Object/Array
+annotations.infectionRateCI90.anomalies: Nested Object/Array
+annotations.infectionRateCI90.sources: Nested Object/Array
+annotations.infectionRateCI90.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.infectionRateCI90.sources.type: other
+annotations.infectionRateCI90.sources.url: Nested Object/Array
+annotations.negativeTests: None
+annotations.newCases: Nested Object/Array
+annotations.newCases.anomalies: Nested Object/Array
+annotations.newCases.anomalies.date: 2020-07-09
+annotations.newCases.anomalies.original_observation: 381.0
+annotations.newCases.anomalies.type: zscore_outlier
+annotations.newCases.sources: Nested Object/Array
+annotations.newDeaths: None
+annotations.positiveTests: None
+annotations.testPositivityRatio: None
+annotations.vaccinationsAdditionalDose: Nested Object/Array
+annotations.vaccinationsAdditionalDose.anomalies: Nested Object/Array
+annotations.vaccinationsAdditionalDose.sources: Nested Object/Array
+annotations.vaccinationsAdditionalDose.sources.name: Centers for Disease Control and Prevention
+annotations.vaccinationsAdditionalDose.sources.type: other
+annotations.vaccinationsAdditionalDose.sources.url: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+annotations.vaccinationsAdditionalDoseRatio: None
+annotations.vaccinationsCompleted: Nested Object/Array
+annotations.vaccinationsCompleted.anomalies: Nested Object/Array
+annotations.vaccinationsCompleted.sources: Nested Object/Array
+annotations.vaccinationsCompleted.sources.name: Centers for Disease Control and Prevention
+annotations.vaccinationsCompleted.sources.type: other
+annotations.vaccinationsCompleted.sources.url: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+annotations.vaccinationsCompletedRatio: None
+annotations.vaccinationsFall2022BivalentBooster: Nested Object/Array
+annotations.vaccinationsFall2022BivalentBooster.anomalies: Nested Object/Array
+annotations.vaccinationsFall2022BivalentBooster.sources: Nested Object/Array
+annotations.vaccinationsFall2022BivalentBooster.sources.name: Centers for Disease Control and Prevention
+annotations.vaccinationsFall2022BivalentBooster.sources.type: other
+annotations.vaccinationsFall2022BivalentBooster.sources.url: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+annotations.vaccinationsFall2022BivalentBoosterRatio: None
+annotations.vaccinationsInitiated: Nested Object/Array
+annotations.vaccinationsInitiated.anomalies: Nested Object/Array
+annotations.vaccinationsInitiated.sources: Nested Object/Array
+annotations.vaccinationsInitiated.sources.name: Centers for Disease Control and Prevention
+annotations.vaccinationsInitiated.sources.type: other
+annotations.vaccinationsInitiated.sources.url: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+annotations.vaccinationsInitiatedRatio: None
+annotations.vaccinesAdministered: None
+annotations.vaccinesDistributed: None
+annotations.weeklyCovidAdmissionsPer100k: Nested Object/Array
+annotations.weeklyCovidAdmissionsPer100k.anomalies: Nested Object/Array
+annotations.weeklyCovidAdmissionsPer100k.sources: Nested Object/Array
+annotations.weeklyCovidAdmissionsPer100k.sources.name: Department of Health and Human Services
+annotations.weeklyCovidAdmissionsPer100k.sources.type: other
+annotations.weeklyCovidAdmissionsPer100k.sources.url: https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u
+annotations.weeklyNewCasesPer100k: Nested Object/Array
+annotations.weeklyNewCasesPer100k.anomalies: Nested Object/Array
+annotations.weeklyNewCasesPer100k.sources: Nested Object/Array
+annotations.weeklyNewCasesPer100k.sources.name: Daily-resolution NYT data before 2023-03-23, weekly-resolution CDC data afterwards.
+annotations.weeklyNewCasesPer100k.sources.type: other
+annotations.weeklyNewCasesPer100k.sources.url: Nested Object/Array
+cdcTransmissionLevel: 4
+cdcTransmissionLevelTimeseries: Nested Object/Array
+cdcTransmissionLevelTimeseries.cdcTransmissionLevel: 0
+cdcTransmissionLevelTimeseries.date: 2020-03-18
+communityLevels: Nested Object/Array
+communityLevels.canCommunityLevel: 0
+communityLevels.cdcCommunityLevel: 0
+communityLevelsTimeseries: Nested Object/Array
+communityLevelsTimeseries.canCommunityLevel: None
+communityLevelsTimeseries.cdcCommunityLevel: None
+communityLevelsTimeseries.date: 2020-03-18
+country: US
+county: Anderson County
+fips: 48001
+hsa: 509
+hsaName: Anderson, TX - Cherokee, TX
+hsaPopulation: 133349
+lastUpdatedDate: 2024-04-15
+lat: None
+level: county
+locationId: iso1:us#iso2:us-tx#fips:48001
+long: None
+metrics: Nested Object/Array
+metrics.bedsWithCovidPatientsRatio: 0.003
+metrics.caseDensity: None
+metrics.contactTracerCapacityRatio: None
+metrics.icuCapacityRatio: 0.5
+metrics.infectionRate: None
+metrics.infectionRateCI90: None
+metrics.testPositivityRatio: None
+metrics.testPositivityRatioDetails: Nested Object/Array
+metrics.testPositivityRatioDetails.source: other
+metrics.vaccinationsAdditionalDoseRatio: 0.172
+metrics.vaccinationsCompletedRatio: 0.406
+metrics.vaccinationsFall2022BivalentBoosterRatio: 0.042
+metrics.vaccinationsInitiatedRatio: 0.46
+metrics.weeklyCovidAdmissionsPer100k: None
+metrics.weeklyNewCasesPer100k: None
+metricsTimeseries: Nested Object/Array
+metricsTimeseries.bedsWithCovidPatientsRatio: None
+metricsTimeseries.caseDensity: 0.0
+metricsTimeseries.contactTracerCapacityRatio: None
+metricsTimeseries.date: 2020-03-18
+metricsTimeseries.icuCapacityRatio: None
+metricsTimeseries.infectionRate: None
+metricsTimeseries.infectionRateCI90: None
+metricsTimeseries.testPositivityRatio: None
+metricsTimeseries.weeklyCovidAdmissionsPer100k: None
+metricsTimeseries.weeklyNewCasesPer100k: 0.0
+population: 57735
+riskLevels: Nested Object/Array
+riskLevels.caseDensity: 4
+riskLevels.contactTracerCapacityRatio: 4
+riskLevels.icuCapacityRatio: 0
+riskLevels.infectionRate: 4
+riskLevels.overall: 4
+riskLevels.testPositivityRatio: 4
+riskLevelsTimeseries: Nested Object/Array
+riskLevelsTimeseries.caseDensity: 0
+riskLevelsTimeseries.date: 2020-03-18
+riskLevelsTimeseries.overall: 0
+state: TX
+url: https://covidactnow.org/us/texas-tx/county/anderson_county
