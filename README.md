@@ -1,13 +1,13 @@
 Notes for Hospitalizations Data Analysis:
-1. Compare Actual data vs timeseries
-2. 
+1. Compare Current Data vs Historic Data
+2. Compare Actuals vs ActualsTimeseries
 
 5. Compare across March different years
 
 ----Results:
-Actuals has 320 fields and 3223 results
+TX.Actuals has 320 fields and 3223 results
 
-Timeseries has 284 fields and 7874 results and 1590 without NULLs
+TX.Timeseries has 284 fields and 7874 results and 1590 without NULLs
 
 Notes for Hospitalizations Data Analysis:
 1. Compare Actual data vs timeseries
