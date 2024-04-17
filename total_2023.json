@@ -1,0 +1,1780 @@
+[
+    {
+        "County":"Anderson County",
+        "Total New Cases":62,
+        "Total Vaccinations":116960,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Andrews County",
+        "Total New Cases":13,
+        "Total Vaccinations":42328,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Angelina County",
+        "Total New Cases":78,
+        "Total Vaccinations":206098,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Aransas County",
+        "Total New Cases":22,
+        "Total Vaccinations":68293,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Archer County",
+        "Total New Cases":13,
+        "Total Vaccinations":25791,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Armstrong County",
+        "Total New Cases":2,
+        "Total Vaccinations":3800,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Atascosa County",
+        "Total New Cases":70,
+        "Total Vaccinations":136997,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Austin County",
+        "Total New Cases":32,
+        "Total Vaccinations":72206,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bailey County",
+        "Total New Cases":3,
+        "Total Vaccinations":13617,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bandera County",
+        "Total New Cases":43,
+        "Total Vaccinations":60315,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bastrop County",
+        "Total New Cases":189,
+        "Total Vaccinations":265435,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Baylor County",
+        "Total New Cases":4,
+        "Total Vaccinations":7179,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bee County",
+        "Total New Cases":64,
+        "Total Vaccinations":84690,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bell County",
+        "Total New Cases":472,
+        "Total Vaccinations":1143094,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bexar County",
+        "Total New Cases":3550,
+        "Total Vaccinations":7281904,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Blanco County",
+        "Total New Cases":22,
+        "Total Vaccinations":34620,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Borden County",
+        "Total New Cases":0,
+        "Total Vaccinations":994,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bosque County",
+        "Total New Cases":23,
+        "Total Vaccinations":42519,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bowie County",
+        "Total New Cases":181,
+        "Total Vaccinations":189636,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brazoria County",
+        "Total New Cases":614,
+        "Total Vaccinations":1125340,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brazos County",
+        "Total New Cases":449,
+        "Total Vaccinations":603534,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brewster County",
+        "Total New Cases":4,
+        "Total Vaccinations":26056,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Briscoe County",
+        "Total New Cases":5,
+        "Total Vaccinations":3321,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brooks County",
+        "Total New Cases":13,
+        "Total Vaccinations":35702,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brown County",
+        "Total New Cases":87,
+        "Total Vaccinations":79279,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Burleson County",
+        "Total New Cases":45,
+        "Total Vaccinations":45962,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Burnet County",
+        "Total New Cases":47,
+        "Total Vaccinations":132875,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Caldwell County",
+        "Total New Cases":93,
+        "Total Vaccinations":126395,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Calhoun County",
+        "Total New Cases":45,
+        "Total Vaccinations":55156,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Callahan County",
+        "Total New Cases":25,
+        "Total Vaccinations":29686,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cameron County",
+        "Total New Cases":1220,
+        "Total Vaccinations":1729525,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Camp County",
+        "Total New Cases":46,
+        "Total Vaccinations":26843,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Carson County",
+        "Total New Cases":8,
+        "Total Vaccinations":10693,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cass County",
+        "Total New Cases":92,
+        "Total Vaccinations":54235,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Castro County",
+        "Total New Cases":26,
+        "Total Vaccinations":16749,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Chambers County",
+        "Total New Cases":152,
+        "Total Vaccinations":107531,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cherokee County",
+        "Total New Cases":114,
+        "Total Vaccinations":106119,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Childress County",
+        "Total New Cases":18,
+        "Total Vaccinations":17465,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Clay County",
+        "Total New Cases":15,
+        "Total Vaccinations":23714,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cochran County",
+        "Total New Cases":2,
+        "Total Vaccinations":5566,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coke County",
+        "Total New Cases":3,
+        "Total Vaccinations":8132,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coleman County",
+        "Total New Cases":19,
+        "Total Vaccinations":14979,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Collin County",
+        "Total New Cases":1924,
+        "Total Vaccinations":3597831,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Collingsworth County",
+        "Total New Cases":4,
+        "Total Vaccinations":4985,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Colorado County",
+        "Total New Cases":61,
+        "Total Vaccinations":55597,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Comal County",
+        "Total New Cases":201,
+        "Total Vaccinations":500757,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Comanche County",
+        "Total New Cases":5,
+        "Total Vaccinations":31891,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Concho County",
+        "Total New Cases":22,
+        "Total Vaccinations":7168,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cooke County",
+        "Total New Cases":57,
+        "Total Vaccinations":80122,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coryell County",
+        "Total New Cases":119,
+        "Total Vaccinations":188407,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cottle County",
+        "Total New Cases":7,
+        "Total Vaccinations":2214,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crane County",
+        "Total New Cases":8,
+        "Total Vaccinations":8997,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crockett County",
+        "Total New Cases":16,
+        "Total Vaccinations":8252,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crosby County",
+        "Total New Cases":26,
+        "Total Vaccinations":12463,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Culberson County",
+        "Total New Cases":7,
+        "Total Vaccinations":5657,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dallam County",
+        "Total New Cases":1,
+        "Total Vaccinations":16248,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dallas County",
+        "Total New Cases":4319,
+        "Total Vaccinations":8175393,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dawson County",
+        "Total New Cases":29,
+        "Total Vaccinations":21894,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Deaf Smith County",
+        "Total New Cases":51,
+        "Total Vaccinations":40750,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Delta County",
+        "Total New Cases":11,
+        "Total Vaccinations":9508,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Denton County",
+        "Total New Cases":1379,
+        "Total Vaccinations":2787301,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"DeWitt County",
+        "Total New Cases":7,
+        "Total Vaccinations":46407,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dickens County",
+        "Total New Cases":1,
+        "Total Vaccinations":3606,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dimmit County",
+        "Total New Cases":13,
+        "Total Vaccinations":36002,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Donley County",
+        "Total New Cases":12,
+        "Total Vaccinations":5542,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Duval County",
+        "Total New Cases":12,
+        "Total Vaccinations":35708,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Eastland County",
+        "Total New Cases":12,
+        "Total Vaccinations":34202,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ector County",
+        "Total New Cases":310,
+        "Total Vaccinations":365420,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Edwards County",
+        "Total New Cases":37,
+        "Total Vaccinations":8635,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ellis County",
+        "Total New Cases":272,
+        "Total Vaccinations":515839,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"El Paso County",
+        "Total New Cases":1294,
+        "Total Vaccinations":3607799,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Erath County",
+        "Total New Cases":76,
+        "Total Vaccinations":81536,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Falls County",
+        "Total New Cases":19,
+        "Total Vaccinations":40404,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fannin County",
+        "Total New Cases":54,
+        "Total Vaccinations":80521,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fayette County",
+        "Total New Cases":26,
+        "Total Vaccinations":63275,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fisher County",
+        "Total New Cases":7,
+        "Total Vaccinations":6987,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Floyd County",
+        "Total New Cases":14,
+        "Total Vaccinations":12939,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Foard County",
+        "Total New Cases":0,
+        "Total Vaccinations":2447,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fort Bend County",
+        "Total New Cases":1290,
+        "Total Vaccinations":3013031,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Franklin County",
+        "Total New Cases":12,
+        "Total Vaccinations":19712,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Freestone County",
+        "Total New Cases":20,
+        "Total Vaccinations":38767,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Frio County",
+        "Total New Cases":27,
+        "Total Vaccinations":71062,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gaines County",
+        "Total New Cases":44,
+        "Total Vaccinations":23858,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Galveston County",
+        "Total New Cases":704,
+        "Total Vaccinations":1057414,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Garza County",
+        "Total New Cases":9,
+        "Total Vaccinations":16281,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gillespie County",
+        "Total New Cases":35,
+        "Total Vaccinations":74187,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Glasscock County",
+        "Total New Cases":1,
+        "Total Vaccinations":3154,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Goliad County",
+        "Total New Cases":11,
+        "Total Vaccinations":16357,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gonzales County",
+        "Total New Cases":25,
+        "Total Vaccinations":53104,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gray County",
+        "Total New Cases":69,
+        "Total Vaccinations":45221,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Grayson County",
+        "Total New Cases":170,
+        "Total Vaccinations":316132,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gregg County",
+        "Total New Cases":184,
+        "Total Vaccinations":286693,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Grimes County",
+        "Total New Cases":49,
+        "Total Vaccinations":78871,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Guadalupe County",
+        "Total New Cases":202,
+        "Total Vaccinations":475331,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hale County",
+        "Total New Cases":91,
+        "Total Vaccinations":73434,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hall County",
+        "Total New Cases":14,
+        "Total Vaccinations":6439,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hamilton County",
+        "Total New Cases":7,
+        "Total Vaccinations":21159,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hansford County",
+        "Total New Cases":41,
+        "Total Vaccinations":11561,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hardeman County",
+        "Total New Cases":4,
+        "Total Vaccinations":9190,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hardin County",
+        "Total New Cases":125,
+        "Total Vaccinations":110320,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Harris County",
+        "Total New Cases":6935,
+        "Total Vaccinations":15498386,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Harrison County",
+        "Total New Cases":120,
+        "Total Vaccinations":137000,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hartley County",
+        "Total New Cases":1,
+        "Total Vaccinations":13257,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Haskell County",
+        "Total New Cases":11,
+        "Total Vaccinations":11065,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hays County",
+        "Total New Cases":414,
+        "Total Vaccinations":749602,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hemphill County",
+        "Total New Cases":21,
+        "Total Vaccinations":8026,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Henderson County",
+        "Total New Cases":159,
+        "Total Vaccinations":164374,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hidalgo County",
+        "Total New Cases":1487,
+        "Total Vaccinations":3478693,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hill County",
+        "Total New Cases":99,
+        "Total Vaccinations":77295,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hockley County",
+        "Total New Cases":41,
+        "Total Vaccinations":49345,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hood County",
+        "Total New Cases":57,
+        "Total Vaccinations":149750,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hopkins County",
+        "Total New Cases":69,
+        "Total Vaccinations":73971,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Houston County",
+        "Total New Cases":49,
+        "Total Vaccinations":48539,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Howard County",
+        "Total New Cases":70,
+        "Total Vaccinations":70882,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hudspeth County",
+        "Total New Cases":2,
+        "Total Vaccinations":16739,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hunt County",
+        "Total New Cases":142,
+        "Total Vaccinations":216247,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hutchinson County",
+        "Total New Cases":46,
+        "Total Vaccinations":37382,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Irion County",
+        "Total New Cases":1,
+        "Total Vaccinations":11282,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jack County",
+        "Total New Cases":6,
+        "Total Vaccinations":18415,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jackson County",
+        "Total New Cases":15,
+        "Total Vaccinations":33437,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jasper County",
+        "Total New Cases":76,
+        "Total Vaccinations":65683,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jeff Davis County",
+        "Total New Cases":3,
+        "Total Vaccinations":5846,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jefferson County",
+        "Total New Cases":413,
+        "Total Vaccinations":656133,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jim Hogg County",
+        "Total New Cases":25,
+        "Total Vaccinations":15359,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jim Wells County",
+        "Total New Cases":57,
+        "Total Vaccinations":111863,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Johnson County",
+        "Total New Cases":351,
+        "Total Vaccinations":415621,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jones County",
+        "Total New Cases":36,
+        "Total Vaccinations":44069,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Karnes County",
+        "Total New Cases":19,
+        "Total Vaccinations":43887,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kaufman County",
+        "Total New Cases":364,
+        "Total Vaccinations":368903,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kendall County",
+        "Total New Cases":40,
+        "Total Vaccinations":150134,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kenedy County",
+        "Total New Cases":2,
+        "Total Vaccinations":1062,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kent County",
+        "Total New Cases":1,
+        "Total Vaccinations":1515,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kerr County",
+        "Total New Cases":103,
+        "Total Vaccinations":137979,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kimble County",
+        "Total New Cases":6,
+        "Total Vaccinations":9341,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"King County",
+        "Total New Cases":0,
+        "Total Vaccinations":297,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kinney County",
+        "Total New Cases":19,
+        "Total Vaccinations":9827,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kleberg County",
+        "Total New Cases":72,
+        "Total Vaccinations":95741,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Knox County",
+        "Total New Cases":1,
+        "Total Vaccinations":7258,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lamar County",
+        "Total New Cases":22,
+        "Total Vaccinations":100138,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lamb County",
+        "Total New Cases":98,
+        "Total Vaccinations":28293,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lampasas County",
+        "Total New Cases":23,
+        "Total Vaccinations":49947,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"La Salle County",
+        "Total New Cases":3,
+        "Total Vaccinations":23944,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lavaca County",
+        "Total New Cases":33,
+        "Total Vaccinations":42761,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lee County",
+        "Total New Cases":38,
+        "Total Vaccinations":40852,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Leon County",
+        "Total New Cases":20,
+        "Total Vaccinations":32358,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Liberty County",
+        "Total New Cases":123,
+        "Total Vaccinations":191963,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Limestone County",
+        "Total New Cases":27,
+        "Total Vaccinations":44650,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lipscomb County",
+        "Total New Cases":2,
+        "Total Vaccinations":5606,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Live Oak County",
+        "Total New Cases":5,
+        "Total Vaccinations":26593,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Llano County",
+        "Total New Cases":28,
+        "Total Vaccinations":56602,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Loving County",
+        "Total New Cases":4,
+        "Total Vaccinations":160,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lubbock County",
+        "Total New Cases":839,
+        "Total Vaccinations":775903,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lynn County",
+        "Total New Cases":3,
+        "Total Vaccinations":11920,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McCulloch County",
+        "Total New Cases":39,
+        "Total Vaccinations":15321,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McLennan County",
+        "Total New Cases":432,
+        "Total Vaccinations":680281,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McMullen County",
+        "Total New Cases":1,
+        "Total Vaccinations":1658,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Madison County",
+        "Total New Cases":30,
+        "Total Vaccinations":29963,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Marion County",
+        "Total New Cases":14,
+        "Total Vaccinations":20036,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Martin County",
+        "Total New Cases":7,
+        "Total Vaccinations":9381,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mason County",
+        "Total New Cases":6,
+        "Total Vaccinations":10113,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Matagorda County",
+        "Total New Cases":100,
+        "Total Vaccinations":86788,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Maverick County",
+        "Total New Cases":66,
+        "Total Vaccinations":303913,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Medina County",
+        "Total New Cases":32,
+        "Total Vaccinations":146413,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Menard County",
+        "Total New Cases":4,
+        "Total Vaccinations":5661,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Midland County",
+        "Total New Cases":334,
+        "Total Vaccinations":390658,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Milam County",
+        "Total New Cases":29,
+        "Total Vaccinations":56795,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mills County",
+        "Total New Cases":8,
+        "Total Vaccinations":10616,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mitchell County",
+        "Total New Cases":15,
+        "Total Vaccinations":15497,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Montague County",
+        "Total New Cases":48,
+        "Total Vaccinations":35158,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Montgomery County",
+        "Total New Cases":916,
+        "Total Vaccinations":1735017,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Moore County",
+        "Total New Cases":28,
+        "Total Vaccinations":49995,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Morris County",
+        "Total New Cases":34,
+        "Total Vaccinations":27065,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Motley County",
+        "Total New Cases":1,
+        "Total Vaccinations":1697,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nacogdoches County",
+        "Total New Cases":214,
+        "Total Vaccinations":152123,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Navarro County",
+        "Total New Cases":92,
+        "Total Vaccinations":115441,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Newton County",
+        "Total New Cases":19,
+        "Total Vaccinations":17120,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nolan County",
+        "Total New Cases":33,
+        "Total Vaccinations":31022,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nueces County",
+        "Total New Cases":528,
+        "Total Vaccinations":1063058,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ochiltree County",
+        "Total New Cases":6,
+        "Total Vaccinations":19135,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Oldham County",
+        "Total New Cases":1,
+        "Total Vaccinations":3773,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Orange County",
+        "Total New Cases":73,
+        "Total Vaccinations":154223,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Palo Pinto County",
+        "Total New Cases":70,
+        "Total Vaccinations":54922,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Panola County",
+        "Total New Cases":63,
+        "Total Vaccinations":44252,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Parker County",
+        "Total New Cases":247,
+        "Total Vaccinations":338071,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Parmer County",
+        "Total New Cases":14,
+        "Total Vaccinations":19636,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Pecos County",
+        "Total New Cases":90,
+        "Total Vaccinations":46520,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Polk County",
+        "Total New Cases":110,
+        "Total Vaccinations":128351,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Potter County",
+        "Total New Cases":303,
+        "Total Vaccinations":278948,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Presidio County",
+        "Total New Cases":3,
+        "Total Vaccinations":32050,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rains County",
+        "Total New Cases":11,
+        "Total Vaccinations":23322,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Randall County",
+        "Total New Cases":410,
+        "Total Vaccinations":327958,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Reagan County",
+        "Total New Cases":10,
+        "Total Vaccinations":7611,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Real County",
+        "Total New Cases":25,
+        "Total Vaccinations":8807,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Red River County",
+        "Total New Cases":33,
+        "Total Vaccinations":25121,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Reeves County",
+        "Total New Cases":39,
+        "Total Vaccinations":71276,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Refugio County",
+        "Total New Cases":9,
+        "Total Vaccinations":18773,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Roberts County",
+        "Total New Cases":1,
+        "Total Vaccinations":1340,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Robertson County",
+        "Total New Cases":49,
+        "Total Vaccinations":38467,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rockwall County",
+        "Total New Cases":226,
+        "Total Vaccinations":317369,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Runnels County",
+        "Total New Cases":13,
+        "Total Vaccinations":22791,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rusk County",
+        "Total New Cases":177,
+        "Total Vaccinations":108297,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sabine County",
+        "Total New Cases":9,
+        "Total Vaccinations":19539,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Augustine County",
+        "Total New Cases":6,
+        "Total Vaccinations":16693,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Jacinto County",
+        "Total New Cases":82,
+        "Total Vaccinations":50085,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Patricio County",
+        "Total New Cases":81,
+        "Total Vaccinations":189555,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Saba County",
+        "Total New Cases":6,
+        "Total Vaccinations":12551,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Schleicher County",
+        "Total New Cases":4,
+        "Total Vaccinations":5896,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Scurry County",
+        "Total New Cases":33,
+        "Total Vaccinations":39326,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Shackelford County",
+        "Total New Cases":5,
+        "Total Vaccinations":6066,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Shelby County",
+        "Total New Cases":24,
+        "Total Vaccinations":46192,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sherman County",
+        "Total New Cases":1,
+        "Total Vaccinations":5260,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Smith County",
+        "Total New Cases":429,
+        "Total Vaccinations":548247,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Somervell County",
+        "Total New Cases":4,
+        "Total Vaccinations":20900,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Starr County",
+        "Total New Cases":184,
+        "Total Vaccinations":332176,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Stephens County",
+        "Total New Cases":14,
+        "Total Vaccinations":17392,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sterling County",
+        "Total New Cases":4,
+        "Total Vaccinations":2512,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Stonewall County",
+        "Total New Cases":2,
+        "Total Vaccinations":2790,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sutton County",
+        "Total New Cases":6,
+        "Total Vaccinations":8373,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Swisher County",
+        "Total New Cases":30,
+        "Total Vaccinations":15201,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tarrant County",
+        "Total New Cases":3945,
+        "Total Vaccinations":6103383,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Taylor County",
+        "Total New Cases":408,
+        "Total Vaccinations":355408,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Terrell County",
+        "Total New Cases":1,
+        "Total Vaccinations":2049,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Terry County",
+        "Total New Cases":12,
+        "Total Vaccinations":26123,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Throckmorton County",
+        "Total New Cases":3,
+        "Total Vaccinations":3058,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Titus County",
+        "Total New Cases":116,
+        "Total Vaccinations":66069,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tom Green County",
+        "Total New Cases":546,
+        "Total Vaccinations":304617,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Travis County",
+        "Total New Cases":3282,
+        "Total Vaccinations":4610859,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Trinity County",
+        "Total New Cases":22,
+        "Total Vaccinations":28877,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tyler County",
+        "Total New Cases":56,
+        "Total Vaccinations":40060,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Upshur County",
+        "Total New Cases":51,
+        "Total Vaccinations":72608,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Upton County",
+        "Total New Cases":2,
+        "Total Vaccinations":7353,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Uvalde County",
+        "Total New Cases":12,
+        "Total Vaccinations":74570,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Val Verde County",
+        "Total New Cases":26,
+        "Total Vaccinations":174714,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Van Zandt County",
+        "Total New Cases":116,
+        "Total Vaccinations":107826,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Victoria County",
+        "Total New Cases":134,
+        "Total Vaccinations":228592,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Walker County",
+        "Total New Cases":136,
+        "Total Vaccinations":178759,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Waller County",
+        "Total New Cases":71,
+        "Total Vaccinations":116854,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ward County",
+        "Total New Cases":20,
+        "Total Vaccinations":21538,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Washington County",
+        "Total New Cases":32,
+        "Total Vaccinations":92125,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Webb County",
+        "Total New Cases":732,
+        "Total Vaccinations":1559612,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wharton County",
+        "Total New Cases":156,
+        "Total Vaccinations":105703,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wheeler County",
+        "Total New Cases":6,
+        "Total Vaccinations":10665,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wichita County",
+        "Total New Cases":297,
+        "Total Vaccinations":352998,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wilbarger County",
+        "Total New Cases":39,
+        "Total Vaccinations":33871,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Willacy County",
+        "Total New Cases":81,
+        "Total Vaccinations":73132,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Williamson County",
+        "Total New Cases":1166,
+        "Total Vaccinations":2107812,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wilson County",
+        "Total New Cases":70,
+        "Total Vaccinations":137238,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Winkler County",
+        "Total New Cases":16,
+        "Total Vaccinations":15802,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wise County",
+        "Total New Cases":70,
+        "Total Vaccinations":138846,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wood County",
+        "Total New Cases":80,
+        "Total Vaccinations":99781,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Yoakum County",
+        "Total New Cases":111,
+        "Total Vaccinations":17779,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Young County",
+        "Total New Cases":37,
+        "Total Vaccinations":37303,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Zapata County",
+        "Total New Cases":32,
+        "Total Vaccinations":43326,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Zavala County",
+        "Total New Cases":14,
+        "Total Vaccinations":31235,
+        "Month":"March",
+        "Year":2023
+    }
+]
