@@ -1,27 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>COVID Hospitalization Rates - Texas Counties</title>
-  <!-- Load necessary libraries -->
-  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css"/>
-  <style>
-    /* Set the dimensions of the map container */
-    #map {
-      height: 100vh;
-      width: 100%;
-    }
-  </style>
-</head>
-<body>
-
-<div id="map"></div>
-
-<script>
-// Make a GET request to retrieve the hospitalization data from your proxy server
-const hospitalizationAPI = "http://localhost:3000/api/covid-data";
+// Make a GET request to retrieve the hospitalization data from the API
+const hospitalizationAPI = "https://api.covidactnow.org/v2/county/TX.timeseries.json?";
 fetch(hospitalizationAPI)
   .then(response => response.json())
   .then(hospitalizationData => {
@@ -61,8 +39,3 @@ fetch(hospitalizationAPI)
       .catch(error => console.error("Error fetching GeoJSON data:", error));
   })
   .catch(error => console.error("Error fetching hospitalization data:", error));
-
-</script>
-
-</body>
-</html>
