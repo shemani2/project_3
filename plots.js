@@ -1,4 +1,4 @@
-const url = "file:///path/total_combined_datat.json"
+const url = "C:/Users/amino/Desktop/Data_Science/Homeworks/project_3/total_combined_datat.json"
 
 // Read the JSON file from the URL
 d3.json(url).then(function(data) {
