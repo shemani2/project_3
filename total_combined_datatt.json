@@ -1,0 +1,4574 @@
+[
+    {
+        "County":"Anderson County",
+        "Total New Cases":94,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Andrews County",
+        "Total New Cases":45,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Angelina County",
+        "Total New Cases":300,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Aransas County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Archer County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Armstrong County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Atascosa County",
+        "Total New Cases":198,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Austin County",
+        "Total New Cases":216,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bailey County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bandera County",
+        "Total New Cases":67,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bastrop County",
+        "Total New Cases":458,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Baylor County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bee County",
+        "Total New Cases":106,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bell County",
+        "Total New Cases":1004,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bexar County",
+        "Total New Cases":9000,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Blanco County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Borden County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bosque County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Bowie County",
+        "Total New Cases":282,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Brazoria County",
+        "Total New Cases":2671,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Brazos County",
+        "Total New Cases":2156,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Brewster County",
+        "Total New Cases":43,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Briscoe County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Brooks County",
+        "Total New Cases":43,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Brown County",
+        "Total New Cases":92,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Burleson County",
+        "Total New Cases":116,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Burnet County",
+        "Total New Cases":298,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Caldwell County",
+        "Total New Cases":218,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Calhoun County",
+        "Total New Cases":158,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Callahan County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cameron County",
+        "Total New Cases":1345,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Camp County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Carson County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cass County",
+        "Total New Cases":71,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Castro County",
+        "Total New Cases":24,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Chambers County",
+        "Total New Cases":391,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cherokee County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Childress County",
+        "Total New Cases":24,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Clay County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cochran County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Coke County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Coleman County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Collin County",
+        "Total New Cases":3426,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Collingsworth County",
+        "Total New Cases":30,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Colorado County",
+        "Total New Cases":111,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Comal County",
+        "Total New Cases":583,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Comanche County",
+        "Total New Cases":61,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Concho County",
+        "Total New Cases":59,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cooke County",
+        "Total New Cases":111,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Coryell County",
+        "Total New Cases":267,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Cottle County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Crane County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Crockett County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Crosby County",
+        "Total New Cases":37,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Culberson County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Dallam County",
+        "Total New Cases":61,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Dallas County",
+        "Total New Cases":10858,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Dawson County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Deaf Smith County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Delta County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Denton County",
+        "Total New Cases":7887,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"DeWitt County",
+        "Total New Cases":48,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Dickens County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Dimmit County",
+        "Total New Cases":266,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Donley County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Duval County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Eastland County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Ector County",
+        "Total New Cases":300,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Edwards County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Ellis County",
+        "Total New Cases":740,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"El Paso County",
+        "Total New Cases":5805,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Erath County",
+        "Total New Cases":115,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Falls County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Fannin County",
+        "Total New Cases":204,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Fayette County",
+        "Total New Cases":254,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Fisher County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Floyd County",
+        "Total New Cases":21,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Foard County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Fort Bend County",
+        "Total New Cases":5782,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Franklin County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Freestone County",
+        "Total New Cases":63,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Frio County",
+        "Total New Cases":93,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Gaines County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Galveston County",
+        "Total New Cases":2549,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Garza County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Gillespie County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Glasscock County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Goliad County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Gonzales County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Gray County",
+        "Total New Cases":92,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Grayson County",
+        "Total New Cases":278,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Gregg County",
+        "Total New Cases":222,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Grimes County",
+        "Total New Cases":128,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Guadalupe County",
+        "Total New Cases":616,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hale County",
+        "Total New Cases":43,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hall County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hamilton County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hansford County",
+        "Total New Cases":41,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hardeman County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hardin County",
+        "Total New Cases":486,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Harris County",
+        "Total New Cases":26951,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Harrison County",
+        "Total New Cases":109,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hartley County",
+        "Total New Cases":45,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Haskell County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hays County",
+        "Total New Cases":981,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hemphill County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Henderson County",
+        "Total New Cases":150,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hidalgo County",
+        "Total New Cases":7854,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hill County",
+        "Total New Cases":100,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hockley County",
+        "Total New Cases":66,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hood County",
+        "Total New Cases":224,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hopkins County",
+        "Total New Cases":100,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Houston County",
+        "Total New Cases":50,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Howard County",
+        "Total New Cases":60,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hudspeth County",
+        "Total New Cases":24,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hunt County",
+        "Total New Cases":243,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Hutchinson County",
+        "Total New Cases":71,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Irion County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jack County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jackson County",
+        "Total New Cases":52,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jasper County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jeff Davis County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jefferson County",
+        "Total New Cases":861,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jim Hogg County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jim Wells County",
+        "Total New Cases":200,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Johnson County",
+        "Total New Cases":789,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Jones County",
+        "Total New Cases":87,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Karnes County",
+        "Total New Cases":128,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kaufman County",
+        "Total New Cases":739,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kendall County",
+        "Total New Cases":165,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kenedy County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kent County",
+        "Total New Cases":21,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kerr County",
+        "Total New Cases":143,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kimble County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"King County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kinney County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Kleberg County",
+        "Total New Cases":146,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Knox County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lamar County",
+        "Total New Cases":144,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lamb County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lampasas County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"La Salle County",
+        "Total New Cases":118,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lavaca County",
+        "Total New Cases":109,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lee County",
+        "Total New Cases":117,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Leon County",
+        "Total New Cases":58,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Liberty County",
+        "Total New Cases":416,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Limestone County",
+        "Total New Cases":69,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lipscomb County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Live Oak County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Llano County",
+        "Total New Cases":91,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Loving County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lubbock County",
+        "Total New Cases":431,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Lynn County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"McCulloch County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"McLennan County",
+        "Total New Cases":1098,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"McMullen County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Madison County",
+        "Total New Cases":71,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Marion County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Martin County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Mason County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Matagorda County",
+        "Total New Cases":283,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Maverick County",
+        "Total New Cases":174,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Medina County",
+        "Total New Cases":223,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Menard County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Midland County",
+        "Total New Cases":707,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Milam County",
+        "Total New Cases":101,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Mills County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Mitchell County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Montague County",
+        "Total New Cases":61,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Montgomery County",
+        "Total New Cases":4478,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Moore County",
+        "Total New Cases":95,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Morris County",
+        "Total New Cases":21,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Motley County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Nacogdoches County",
+        "Total New Cases":258,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Navarro County",
+        "Total New Cases":84,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Newton County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Nolan County",
+        "Total New Cases":29,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Nueces County",
+        "Total New Cases":1272,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Ochiltree County",
+        "Total New Cases":38,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Oldham County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Orange County",
+        "Total New Cases":701,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Palo Pinto County",
+        "Total New Cases":73,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Panola County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Parker County",
+        "Total New Cases":504,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Parmer County",
+        "Total New Cases":67,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Pecos County",
+        "Total New Cases":97,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Polk County",
+        "Total New Cases":117,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Potter County",
+        "Total New Cases":313,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Presidio County",
+        "Total New Cases":37,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Rains County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Randall County",
+        "Total New Cases":282,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Reagan County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Real County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Red River County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Reeves County",
+        "Total New Cases":18,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Refugio County",
+        "Total New Cases":18,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Roberts County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Robertson County",
+        "Total New Cases":53,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Rockwall County",
+        "Total New Cases":562,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Runnels County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Rusk County",
+        "Total New Cases":124,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Sabine County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"San Augustine County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"San Jacinto County",
+        "Total New Cases":146,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"San Patricio County",
+        "Total New Cases":143,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"San Saba County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Schleicher County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Scurry County",
+        "Total New Cases":38,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Shackelford County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Shelby County",
+        "Total New Cases":61,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Sherman County",
+        "Total New Cases":48,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Smith County",
+        "Total New Cases":624,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Somervell County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Starr County",
+        "Total New Cases":496,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Stephens County",
+        "Total New Cases":52,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Sterling County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Stonewall County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Sutton County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Swisher County",
+        "Total New Cases":38,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Tarrant County",
+        "Total New Cases":9219,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Taylor County",
+        "Total New Cases":291,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Terrell County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Terry County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Throckmorton County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Titus County",
+        "Total New Cases":62,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Tom Green County",
+        "Total New Cases":247,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Travis County",
+        "Total New Cases":3581,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Trinity County",
+        "Total New Cases":47,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Tyler County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Upshur County",
+        "Total New Cases":74,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Upton County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Uvalde County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Val Verde County",
+        "Total New Cases":129,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Van Zandt County",
+        "Total New Cases":144,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Victoria County",
+        "Total New Cases":208,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Walker County",
+        "Total New Cases":283,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Waller County",
+        "Total New Cases":418,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Ward County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Washington County",
+        "Total New Cases":191,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Webb County",
+        "Total New Cases":514,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wharton County",
+        "Total New Cases":157,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wheeler County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wichita County",
+        "Total New Cases":269,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wilbarger County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Willacy County",
+        "Total New Cases":120,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Williamson County",
+        "Total New Cases":3388,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wilson County",
+        "Total New Cases":170,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Winkler County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wise County",
+        "Total New Cases":240,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Wood County",
+        "Total New Cases":99,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Yoakum County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Young County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Zapata County",
+        "Total New Cases":31,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Zavala County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2021
+    },
+    {
+        "County":"Anderson County",
+        "Total New Cases":47,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Andrews County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Angelina County",
+        "Total New Cases":103,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Aransas County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Archer County",
+        "Total New Cases":48,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Armstrong County",
+        "Total New Cases":24,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Atascosa County",
+        "Total New Cases":292,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Austin County",
+        "Total New Cases":169,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bailey County",
+        "Total New Cases":92,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bandera County",
+        "Total New Cases":88,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bastrop County",
+        "Total New Cases":117,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Baylor County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bee County",
+        "Total New Cases":170,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bell County",
+        "Total New Cases":327,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bexar County",
+        "Total New Cases":9097,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Blanco County",
+        "Total New Cases":34,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Borden County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bosque County",
+        "Total New Cases":55,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Bowie County",
+        "Total New Cases":551,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Brazoria County",
+        "Total New Cases":630,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Brazos County",
+        "Total New Cases":570,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Brewster County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Briscoe County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Brooks County",
+        "Total New Cases":18,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Brown County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Burleson County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Burnet County",
+        "Total New Cases":185,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Caldwell County",
+        "Total New Cases":121,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Calhoun County",
+        "Total New Cases":56,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Callahan County",
+        "Total New Cases":76,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cameron County",
+        "Total New Cases":3094,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Camp County",
+        "Total New Cases":60,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Carson County",
+        "Total New Cases":50,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cass County",
+        "Total New Cases":216,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Castro County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Chambers County",
+        "Total New Cases":101,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cherokee County",
+        "Total New Cases":34,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Childress County",
+        "Total New Cases":46,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Clay County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cochran County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Coke County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Coleman County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Collin County",
+        "Total New Cases":6497,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Collingsworth County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Colorado County",
+        "Total New Cases":88,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Comal County",
+        "Total New Cases":1538,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Comanche County",
+        "Total New Cases":346,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Concho County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cooke County",
+        "Total New Cases":133,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Coryell County",
+        "Total New Cases":226,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Cottle County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Crane County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Crockett County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Crosby County",
+        "Total New Cases":47,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Culberson County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Dallam County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Dallas County",
+        "Total New Cases":3744,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Dawson County",
+        "Total New Cases":78,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Deaf Smith County",
+        "Total New Cases":369,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Delta County",
+        "Total New Cases":18,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Denton County",
+        "Total New Cases":2651,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"DeWitt County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Dickens County",
+        "Total New Cases":31,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Dimmit County",
+        "Total New Cases":64,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Donley County",
+        "Total New Cases":79,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Duval County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Eastland County",
+        "Total New Cases":48,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Ector County",
+        "Total New Cases":478,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Edwards County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Ellis County",
+        "Total New Cases":454,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"El Paso County",
+        "Total New Cases":1618,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Erath County",
+        "Total New Cases":143,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Falls County",
+        "Total New Cases":51,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Fannin County",
+        "Total New Cases":99,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Fayette County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Fisher County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Floyd County",
+        "Total New Cases":52,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Foard County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Fort Bend County",
+        "Total New Cases":5292,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Franklin County",
+        "Total New Cases":66,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Freestone County",
+        "Total New Cases":37,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Frio County",
+        "Total New Cases":222,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Gaines County",
+        "Total New Cases":270,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Galveston County",
+        "Total New Cases":802,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Garza County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Gillespie County",
+        "Total New Cases":97,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Glasscock County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Goliad County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Gonzales County",
+        "Total New Cases":50,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Gray County",
+        "Total New Cases":110,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Grayson County",
+        "Total New Cases":89,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Gregg County",
+        "Total New Cases":100,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Grimes County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Guadalupe County",
+        "Total New Cases":1269,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hale County",
+        "Total New Cases":42,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hall County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hamilton County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hansford County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hardeman County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hardin County",
+        "Total New Cases":31,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Harris County",
+        "Total New Cases":9216,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Harrison County",
+        "Total New Cases":345,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hartley County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Haskell County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hays County",
+        "Total New Cases":422,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hemphill County",
+        "Total New Cases":83,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Henderson County",
+        "Total New Cases":74,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hidalgo County",
+        "Total New Cases":8424,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hill County",
+        "Total New Cases":132,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hockley County",
+        "Total New Cases":115,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hood County",
+        "Total New Cases":91,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hopkins County",
+        "Total New Cases":76,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Houston County",
+        "Total New Cases":210,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Howard County",
+        "Total New Cases":59,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hudspeth County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hunt County",
+        "Total New Cases":77,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Hutchinson County",
+        "Total New Cases":134,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Irion County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jack County",
+        "Total New Cases":21,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jackson County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jasper County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jeff Davis County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jefferson County",
+        "Total New Cases":2694,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jim Hogg County",
+        "Total New Cases":78,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jim Wells County",
+        "Total New Cases":191,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Johnson County",
+        "Total New Cases":1380,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Jones County",
+        "Total New Cases":114,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Karnes County",
+        "Total New Cases":284,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kaufman County",
+        "Total New Cases":427,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kendall County",
+        "Total New Cases":192,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kenedy County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kent County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kerr County",
+        "Total New Cases":181,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kimble County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"King County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kinney County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Kleberg County",
+        "Total New Cases":116,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Knox County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lamar County",
+        "Total New Cases":78,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lamb County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lampasas County",
+        "Total New Cases":32,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"La Salle County",
+        "Total New Cases":51,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lavaca County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lee County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Leon County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Liberty County",
+        "Total New Cases":586,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Limestone County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lipscomb County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Live Oak County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Llano County",
+        "Total New Cases":49,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Loving County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lubbock County",
+        "Total New Cases":311,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Lynn County",
+        "Total New Cases":141,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"McCulloch County",
+        "Total New Cases":31,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"McLennan County",
+        "Total New Cases":1337,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"McMullen County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Madison County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Marion County",
+        "Total New Cases":30,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Martin County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Mason County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Matagorda County",
+        "Total New Cases":174,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Maverick County",
+        "Total New Cases":208,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Medina County",
+        "Total New Cases":282,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Menard County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Midland County",
+        "Total New Cases":2810,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Milam County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Mills County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Mitchell County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Montague County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Montgomery County",
+        "Total New Cases":2127,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Moore County",
+        "Total New Cases":189,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Morris County",
+        "Total New Cases":31,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Motley County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Nacogdoches County",
+        "Total New Cases":310,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Navarro County",
+        "Total New Cases":212,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Newton County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Nolan County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Nueces County",
+        "Total New Cases":1523,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Ochiltree County",
+        "Total New Cases":182,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Oldham County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Orange County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Palo Pinto County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Panola County",
+        "Total New Cases":116,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Parker County",
+        "Total New Cases":443,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Parmer County",
+        "Total New Cases":63,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Pecos County",
+        "Total New Cases":91,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Polk County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Potter County",
+        "Total New Cases":493,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Presidio County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Rains County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Randall County",
+        "Total New Cases":157,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Reagan County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Real County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Red River County",
+        "Total New Cases":52,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Reeves County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Refugio County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Roberts County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Robertson County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Rockwall County",
+        "Total New Cases":216,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Runnels County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Rusk County",
+        "Total New Cases":217,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Sabine County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"San Augustine County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"San Jacinto County",
+        "Total New Cases":197,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"San Patricio County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"San Saba County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Schleicher County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Scurry County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Shackelford County",
+        "Total New Cases":40,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Shelby County",
+        "Total New Cases":97,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Sherman County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Smith County",
+        "Total New Cases":175,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Somervell County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Starr County",
+        "Total New Cases":406,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Stephens County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Sterling County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Stonewall County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Sutton County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Swisher County",
+        "Total New Cases":41,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Tarrant County",
+        "Total New Cases":4860,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Taylor County",
+        "Total New Cases":549,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Terrell County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Terry County",
+        "Total New Cases":223,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Throckmorton County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Titus County",
+        "Total New Cases":214,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Tom Green County",
+        "Total New Cases":121,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Travis County",
+        "Total New Cases":2490,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Trinity County",
+        "Total New Cases":85,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Tyler County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Upshur County",
+        "Total New Cases":171,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Upton County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Uvalde County",
+        "Total New Cases":55,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Val Verde County",
+        "Total New Cases":71,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Van Zandt County",
+        "Total New Cases":36,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Victoria County",
+        "Total New Cases":178,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Walker County",
+        "Total New Cases":159,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Waller County",
+        "Total New Cases":172,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Ward County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Washington County",
+        "Total New Cases":221,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Webb County",
+        "Total New Cases":950,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wharton County",
+        "Total New Cases":369,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wheeler County",
+        "Total New Cases":17,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wichita County",
+        "Total New Cases":118,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wilbarger County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Willacy County",
+        "Total New Cases":165,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Williamson County",
+        "Total New Cases":1474,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wilson County",
+        "Total New Cases":295,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Winkler County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wise County",
+        "Total New Cases":166,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Wood County",
+        "Total New Cases":34,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Yoakum County",
+        "Total New Cases":162,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Young County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Zapata County",
+        "Total New Cases":46,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Zavala County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2022
+    },
+    {
+        "County":"Anderson County",
+        "Total New Cases":62,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Andrews County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Angelina County",
+        "Total New Cases":78,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Aransas County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Archer County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Armstrong County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Atascosa County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Austin County",
+        "Total New Cases":32,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bailey County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bandera County",
+        "Total New Cases":43,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bastrop County",
+        "Total New Cases":189,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Baylor County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bee County",
+        "Total New Cases":64,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bell County",
+        "Total New Cases":472,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bexar County",
+        "Total New Cases":3550,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Blanco County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Borden County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bosque County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Bowie County",
+        "Total New Cases":181,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brazoria County",
+        "Total New Cases":614,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brazos County",
+        "Total New Cases":449,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brewster County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Briscoe County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brooks County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Brown County",
+        "Total New Cases":87,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Burleson County",
+        "Total New Cases":45,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Burnet County",
+        "Total New Cases":47,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Caldwell County",
+        "Total New Cases":93,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Calhoun County",
+        "Total New Cases":45,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Callahan County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cameron County",
+        "Total New Cases":1220,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Camp County",
+        "Total New Cases":46,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Carson County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cass County",
+        "Total New Cases":92,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Castro County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Chambers County",
+        "Total New Cases":152,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cherokee County",
+        "Total New Cases":114,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Childress County",
+        "Total New Cases":18,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Clay County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cochran County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coke County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coleman County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Collin County",
+        "Total New Cases":1924,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Collingsworth County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Colorado County",
+        "Total New Cases":61,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Comal County",
+        "Total New Cases":201,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Comanche County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Concho County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cooke County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Coryell County",
+        "Total New Cases":119,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Cottle County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crane County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crockett County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Crosby County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Culberson County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dallam County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dallas County",
+        "Total New Cases":4319,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dawson County",
+        "Total New Cases":29,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Deaf Smith County",
+        "Total New Cases":51,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Delta County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Denton County",
+        "Total New Cases":1379,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"DeWitt County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dickens County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Dimmit County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Donley County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Duval County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Eastland County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ector County",
+        "Total New Cases":310,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Edwards County",
+        "Total New Cases":37,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ellis County",
+        "Total New Cases":272,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"El Paso County",
+        "Total New Cases":1294,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Erath County",
+        "Total New Cases":76,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Falls County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fannin County",
+        "Total New Cases":54,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fayette County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fisher County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Floyd County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Foard County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Fort Bend County",
+        "Total New Cases":1290,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Franklin County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Freestone County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Frio County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gaines County",
+        "Total New Cases":44,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Galveston County",
+        "Total New Cases":704,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Garza County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gillespie County",
+        "Total New Cases":35,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Glasscock County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Goliad County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gonzales County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gray County",
+        "Total New Cases":69,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Grayson County",
+        "Total New Cases":170,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Gregg County",
+        "Total New Cases":184,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Grimes County",
+        "Total New Cases":49,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Guadalupe County",
+        "Total New Cases":202,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hale County",
+        "Total New Cases":91,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hall County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hamilton County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hansford County",
+        "Total New Cases":41,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hardeman County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hardin County",
+        "Total New Cases":125,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Harris County",
+        "Total New Cases":6935,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Harrison County",
+        "Total New Cases":120,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hartley County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Haskell County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hays County",
+        "Total New Cases":414,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hemphill County",
+        "Total New Cases":21,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Henderson County",
+        "Total New Cases":159,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hidalgo County",
+        "Total New Cases":1487,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hill County",
+        "Total New Cases":99,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hockley County",
+        "Total New Cases":41,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hood County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hopkins County",
+        "Total New Cases":69,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Houston County",
+        "Total New Cases":49,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Howard County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hudspeth County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hunt County",
+        "Total New Cases":142,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Hutchinson County",
+        "Total New Cases":46,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Irion County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jack County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jackson County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jasper County",
+        "Total New Cases":76,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jeff Davis County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jefferson County",
+        "Total New Cases":413,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jim Hogg County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jim Wells County",
+        "Total New Cases":57,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Johnson County",
+        "Total New Cases":351,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Jones County",
+        "Total New Cases":36,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Karnes County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kaufman County",
+        "Total New Cases":364,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kendall County",
+        "Total New Cases":40,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kenedy County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kent County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kerr County",
+        "Total New Cases":103,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kimble County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"King County",
+        "Total New Cases":0,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kinney County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Kleberg County",
+        "Total New Cases":72,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Knox County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lamar County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lamb County",
+        "Total New Cases":98,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lampasas County",
+        "Total New Cases":23,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"La Salle County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lavaca County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lee County",
+        "Total New Cases":38,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Leon County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Liberty County",
+        "Total New Cases":123,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Limestone County",
+        "Total New Cases":27,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lipscomb County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Live Oak County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Llano County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Loving County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lubbock County",
+        "Total New Cases":839,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Lynn County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McCulloch County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McLennan County",
+        "Total New Cases":432,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"McMullen County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Madison County",
+        "Total New Cases":30,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Marion County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Martin County",
+        "Total New Cases":7,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mason County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Matagorda County",
+        "Total New Cases":100,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Maverick County",
+        "Total New Cases":66,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Medina County",
+        "Total New Cases":32,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Menard County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Midland County",
+        "Total New Cases":334,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Milam County",
+        "Total New Cases":29,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mills County",
+        "Total New Cases":8,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Mitchell County",
+        "Total New Cases":15,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Montague County",
+        "Total New Cases":48,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Montgomery County",
+        "Total New Cases":916,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Moore County",
+        "Total New Cases":28,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Morris County",
+        "Total New Cases":34,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Motley County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nacogdoches County",
+        "Total New Cases":214,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Navarro County",
+        "Total New Cases":92,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Newton County",
+        "Total New Cases":19,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nolan County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Nueces County",
+        "Total New Cases":528,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ochiltree County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Oldham County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Orange County",
+        "Total New Cases":73,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Palo Pinto County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Panola County",
+        "Total New Cases":63,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Parker County",
+        "Total New Cases":247,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Parmer County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Pecos County",
+        "Total New Cases":90,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Polk County",
+        "Total New Cases":110,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Potter County",
+        "Total New Cases":303,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Presidio County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rains County",
+        "Total New Cases":11,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Randall County",
+        "Total New Cases":410,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Reagan County",
+        "Total New Cases":10,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Real County",
+        "Total New Cases":25,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Red River County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Reeves County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Refugio County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Roberts County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Robertson County",
+        "Total New Cases":49,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rockwall County",
+        "Total New Cases":226,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Runnels County",
+        "Total New Cases":13,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Rusk County",
+        "Total New Cases":177,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sabine County",
+        "Total New Cases":9,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Augustine County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Jacinto County",
+        "Total New Cases":82,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Patricio County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"San Saba County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Schleicher County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Scurry County",
+        "Total New Cases":33,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Shackelford County",
+        "Total New Cases":5,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Shelby County",
+        "Total New Cases":24,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sherman County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Smith County",
+        "Total New Cases":429,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Somervell County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Starr County",
+        "Total New Cases":184,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Stephens County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sterling County",
+        "Total New Cases":4,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Stonewall County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Sutton County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Swisher County",
+        "Total New Cases":30,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tarrant County",
+        "Total New Cases":3945,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Taylor County",
+        "Total New Cases":408,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Terrell County",
+        "Total New Cases":1,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Terry County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Throckmorton County",
+        "Total New Cases":3,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Titus County",
+        "Total New Cases":116,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tom Green County",
+        "Total New Cases":546,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Travis County",
+        "Total New Cases":3282,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Trinity County",
+        "Total New Cases":22,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Tyler County",
+        "Total New Cases":56,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Upshur County",
+        "Total New Cases":51,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Upton County",
+        "Total New Cases":2,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Uvalde County",
+        "Total New Cases":12,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Val Verde County",
+        "Total New Cases":26,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Van Zandt County",
+        "Total New Cases":116,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Victoria County",
+        "Total New Cases":134,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Walker County",
+        "Total New Cases":136,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Waller County",
+        "Total New Cases":71,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Ward County",
+        "Total New Cases":20,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Washington County",
+        "Total New Cases":32,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Webb County",
+        "Total New Cases":732,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wharton County",
+        "Total New Cases":156,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wheeler County",
+        "Total New Cases":6,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wichita County",
+        "Total New Cases":297,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wilbarger County",
+        "Total New Cases":39,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Willacy County",
+        "Total New Cases":81,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Williamson County",
+        "Total New Cases":1166,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wilson County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Winkler County",
+        "Total New Cases":16,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wise County",
+        "Total New Cases":70,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Wood County",
+        "Total New Cases":80,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Yoakum County",
+        "Total New Cases":111,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Young County",
+        "Total New Cases":37,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Zapata County",
+        "Total New Cases":32,
+        "Month":"March",
+        "Year":2023
+    },
+    {
+        "County":"Zavala County",
+        "Total New Cases":14,
+        "Month":"March",
+        "Year":2023
+    }
+]
