@@ -1,4 +1,4 @@
-const url = "C:/Users/amino/Desktop/Data_Science/Homeworks/project_3/total_combined_datat.json"
+const url = "https://raw.githubusercontent.com/shemani2/project_3/jenni/total_combined_datat.json"
 
 // Read the JSON file from the URL
 d3.json(url).then(function(data) {
