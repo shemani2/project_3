@@ -1,5 +1,5 @@
 # project_3
-Group Title: 
+Group Title: Data Van Gogh
 
 # Authors
 Brian Quintero, Jennifer Tran, Sumain Hemani
@@ -7,20 +7,20 @@ Brian Quintero, Jennifer Tran, Sumain Hemani
 # Description
 This project utilizes Python, Pandas, Matplotlib, Javascript to visualize COVID-19 vaccination data up until 2021. 
 
-In the field of data science that is rapidly evolving, understanding the dataset of salaries from different job titles and trends will be beneficial for those in interests of the data science community. By using Python, Pandas, and Matplotlib we are able to answer:
-1.	Comparison of different experience levels of a position under the same job title and the salary they earn
-2.	Mean, median, mode statistics for the different top 5 job titles in the data science community
-3.	Trend of how a position has changes in demand over time and predicting their value for the future
-4.	Does work environment (hybrid, on-site, and remote) impact on salary?
+In the face of the unprecedented global pandemic caused by the novel coronavirus, COVID-19, the utilization of comprehensive datasets has emerged as a cornerstone in the fight against the virus. These datasets, comprising a wealth of information ranging from infection rates and mortality statistics to vaccination data, provide invaluable insights into the dynamics of the pandemic. Understanding and leveraging these datasets is pivotal in several key aspects:
+
+1.	COVID-19 datasets serve as a vital tool for tracking and analyzing the transmission patterns of the virus within populations. By documenting the number of confirmed cases, identifying hotspot regions, and monitoring trends over time, researchers and public health officials can gain a deeper understanding of how the virus spreads through communities.
+2.	As vaccines against COVID-19 have been developed and deployed on a global scale, COVID-19 datasets play a pivotal role in evaluating the effectiveness of vaccination campaigns. 
+3.	COVID-19 datasets provide essential insights into the progression towards herd immunity by tracking population-level immunity through natural infection and vaccination. 
 
 # Dataset Citation 
-- Islam, Sazidul (2024). [Data Science Salaries 2024 [Data Set]](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries)
+- [Covid Act Now [Data Set]](https://apidocs.covidactnow.org/)
 
 # Describing the Datasets
-This dataset is a CSV file that encompasses a collection of data science salary from 2020 to 2024, however we are ommitting year 2024. In this dataset, not only salaries are collected but the details of each job titles and their location, experience level, company size, and work models.
+This dataset is collected by using an API that encompasses a collection of COVID-19 data from 2021-2023. It is a valuable resource in advancing our understanding of the virus's epidemiology and transmission dynamics. 
 
 # Analysis
-Work Experience level
+New Cases 
 - As predicted, positive increase on average salary with the experience level goes up reflect on top 5 job titles. 
 - Job title - Data Analyst shows slower increase compares to the other top job titles. 
 - Job title - Data Scientist shows doubled salary from Entry level to Executive level.
