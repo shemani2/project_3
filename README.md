@@ -20,7 +20,7 @@ The analysis of vaccinations is informative for health promotion and to visualiz
 - [Covid Act Now [Data Set]](https://apidocs.covidactnow.org/)
 
 # Describing the Datasets
-This dataset is collected by using an API that encompasses a collection of COVID-19 data from 2021-2023. It is a valuable resource in advancing our understanding of the virus's epidemiology and transmission dynamics. 
+This dataset is collected by using an API that encompasses a collection of COVID-19 data from 2021-2023. It is a valuable resource in advancing our understanding of the virus's epidemiology and transmission dynamics. We used Trello to help keep our work organized.
 
 # Analysis
 New Cases 
@@ -44,6 +44,7 @@ Vaccinations
 
 - Some caveats or gaps to be aware of in the data include how there is no significant 2020 data available in this dataset, even with it being sourced from the CDC, which demonstrates that collection of the data was not as paramount at the peak until the virus was controllable. There were no specific methods of collecting or managing the collection of the type of data for evaluation. The means to collect the data and collecting the appropriate data was more significant in 2021 and after which has now become historical data. The other gap to be aware of includes small counties that did not have the resources to add more patients to their care, therefore outsourcing to other healthcare facilities in other counties, which may inflate or deflate the data we have analyzed. 
 
+Our final presentation can be viewed at: https://docs.google.com/presentation/d/1pRNSB5RfqrEZewhkrODVKxxRn83B7K6bRefdmJcdpK0/edit?usp=sharing
 
 
 
