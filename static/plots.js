@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/shemani2/project_3/jenni/total_combined_datat.json";
+const url = "https://raw.githubusercontent.com/shemani2/project_3/jenni/static/total_combined_datat.json";
 
 function init() {
     d3.json(url)
