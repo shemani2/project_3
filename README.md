@@ -1,3 +1,27 @@
+Notes for Hospitalizations Data Analysis:
+1. Compare Current Data vs Historic Data
+2. Compare Actuals vs ActualsTimeseries
+
+5. Compare across March different years
+
+----Results:
+TX.Actuals has 320 fields and 3223 results
+
+TX.Timeseries has 284 fields and 7874 results and 1590 without NULLs
+
+Notes for Hospitalizations Data Analysis:
+1. Compare Actual data vs timeseries
+2. 
+
+5. Compare across March different years
+
+
+
+
+
+
+
+
 # project_3
 Group Title: Data Van Gogh
 
@@ -40,6 +64,7 @@ Vaccinations
 
 
 # Summary
+<<<<<<< HEAD
 - The analysis reveals an inverse relationship between increased vaccinations and the decline of cases and beds being occupied due to the virus. These categories combined demonstrate that things like herd immunity are valuable in the decline of COVID-19. Working together as a community to collect the appropriate data, keep an eye on hospitalization admissions concerning the virus, and how vaccines benefit in reducing the likelihood of getting the virus, collects the data to determine future and long-term impact as well as keep good historical knowledge of how our society fights biological diseases. 
 
 - Some caveats or gaps to be aware of in the data include how there is no significant 2020 data available in this dataset, even with it being sourced from the CDC, which demonstrates that collection of the data was not as paramount at the peak until the virus was controllable. There were no specific methods of collecting or managing the collection of the type of data for evaluation. The means to collect the data and collecting the appropriate data was more significant in 2021 and after which has now become historical data. The other gap to be aware of includes small counties that did not have the resources to add more patients to their care, therefore outsourcing to other healthcare facilities in other counties, which may inflate or deflate the data we have analyzed. 
@@ -49,3 +74,6 @@ Our final presentation can be viewed at: https://docs.google.com/presentation/d/
 
 
 
+=======
+- The analysis of work experience levels reveals a positive correlation between experience and salary across various job titles, with the top five positions demonstrating this trend. However, the salary growth for Data Analysts appears slower compared to other top job titles. Notably, Data Scientists experience a significant salary increase, doubling from Entry level to Executive level. It is shown that Data Engineer jobs offer the widest salary range while Data Scientist positions have the highest growth potential. Examining job growth since 2020, median salaries for different positions have remained relatively stable, as indicated by box plot distributions. However, there is an increase in outliers, suggesting the possibility of more extreme salary offers, potentially continuing into 2024. The growing demand for data science roles indicates either sustained growth or an eventual plateau in the job market, as projected by the Bureau of Labor Statistics. Regarding work environments, analysis of the top five job titles (Data Analysts, Data Scientists, Data Engineers, Analytics Engineers, and Machine Learning Engineers) reveals no statistically significant differences in salaries or work environments.
+>>>>>>> b-ri-an
