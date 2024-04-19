@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hospitalizations Plot</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+
+<h2>Daily Hospitalizations - March 2021</h2>
+
+<div>
+  <label for="county-select">Select County:</label>
+  <select id="county-select" onchange="updatePlot()">
+    <option value="" disabled selected>Select a county</option>
+
+  </select>
+</div>
+
+<div id="plot"></div>
+
+<script>
+function updatePlot() {
+  var county = document.getElementById("county-select").value;
+  var data = JSON.parse('{}');
+  var countyData = data[county];
+  
+  var dates = countyData['Date'];
+  var hospitalizations = countyData['Hospitalizations'];
+
+  var trace = {
+    x: dates,
+    y: hospitalizations,
+    mode: 'lines+markers',
+    type: 'scatter'
+  };
+
+  var layout = {
+    title: 'Daily Hospitalizations - ' + county + ' - March 2021',
+    xaxis: {title: 'Date'},
+    yaxis: {title: 'Hospitalizations'},
+    autosize: true
+  };
+
+  var plotData = [trace];
+  Plotly.newPlot('plot', plotData, layout);
+}
+
+updatePlot();  // Call the function to initialize the plot
+</script>
+
+</body>
+</html>
